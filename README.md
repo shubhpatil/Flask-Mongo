@@ -7,7 +7,7 @@
 4. run: python backend.py
 ```
 
-### Create Citual Environment
+### Create Virtual Environment
 ```
 1. Create Environment
 python -m venv "NAME OF ENVIRONMENT"
