@@ -20,7 +20,7 @@ ex: flask_env\Scripts\activate.bat
 3. Get out of environment
 deactivate
 
-4. install packages
+4. Install packages
 pip install <package-name>
 
 5. List all packages installed
