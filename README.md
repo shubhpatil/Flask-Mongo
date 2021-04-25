@@ -7,21 +7,22 @@
 4. run: python backend.py
 ```
 
+### Create Citual Environment
 ```
-1. create environment
+1. Create Environment
 python -m venv "NAME OF ENVIRONMENT"
 ex: python -m venv flask_env
 
-2. goto env
+2. Goto Environment
 "NAME OF ENVIRONMENT"\Scripts\activate.bat
 ex: flask_env\Scripts\activate.bat
 
-3. get out of env
+3. Get out of environment
 deactivate
 
 4. install packages
 pip install <package-name>
 
-5. list all packages installed
+5. List all packages installed
 pip list
 ```
